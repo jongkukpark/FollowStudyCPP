@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integers", "Integers\Intege
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fixed-width_Integer_CPP11", "Fixed-width_Integer_CPP11\Fixed-width_Integer_CPP11.vcxproj", "{0493DD19-CA24-4FAE-B7E7-BAE822EDB348}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoidType", "VoidType\VoidType.vcxproj", "{58BBFB86-3FE7-468A-953D-5894FB143486}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0493DD19-CA24-4FAE-B7E7-BAE822EDB348}.Release|x64.Build.0 = Release|x64
 		{0493DD19-CA24-4FAE-B7E7-BAE822EDB348}.Release|x86.ActiveCfg = Release|Win32
 		{0493DD19-CA24-4FAE-B7E7-BAE822EDB348}.Release|x86.Build.0 = Release|Win32
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Debug|x64.ActiveCfg = Debug|x64
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Debug|x64.Build.0 = Debug|x64
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Debug|x86.ActiveCfg = Debug|Win32
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Debug|x86.Build.0 = Debug|Win32
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Release|x64.ActiveCfg = Release|x64
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Release|x64.Build.0 = Release|x64
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Release|x86.ActiveCfg = Release|Win32
+		{58BBFB86-3FE7-468A-953D-5894FB143486}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
