@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntroduceDatatype", "IntroduceDatatype\IntroduceDatatype.vcxproj", "{7A8884A2-0E3A-41E2-A98F-50574E31BE93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integers", "Integers\Integers.vcxproj", "{C03185C8-540A-4D50-A233-05EF66EAD957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7A8884A2-0E3A-41E2-A98F-50574E31BE93}.Release|x64.Build.0 = Release|x64
 		{7A8884A2-0E3A-41E2-A98F-50574E31BE93}.Release|x86.ActiveCfg = Release|Win32
 		{7A8884A2-0E3A-41E2-A98F-50574E31BE93}.Release|x86.Build.0 = Release|Win32
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Debug|x64.ActiveCfg = Debug|x64
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Debug|x64.Build.0 = Debug|x64
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Debug|x86.ActiveCfg = Debug|Win32
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Debug|x86.Build.0 = Debug|Win32
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Release|x64.ActiveCfg = Release|x64
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Release|x64.Build.0 = Release|x64
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Release|x86.ActiveCfg = Release|Win32
+		{C03185C8-540A-4D50-A233-05EF66EAD957}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
