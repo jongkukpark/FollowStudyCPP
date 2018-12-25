@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VoidType", "VoidType\VoidTy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FloatingPoint", "FloatingPoint\FloatingPoint.vcxproj", "{A6E7AF26-BB55-404F-A97B-6D56C9AC31DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BooleanIf", "BooleanIf\BooleanIf.vcxproj", "{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{A6E7AF26-BB55-404F-A97B-6D56C9AC31DF}.Release|x64.Build.0 = Release|x64
 		{A6E7AF26-BB55-404F-A97B-6D56C9AC31DF}.Release|x86.ActiveCfg = Release|Win32
 		{A6E7AF26-BB55-404F-A97B-6D56C9AC31DF}.Release|x86.Build.0 = Release|Win32
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Debug|x64.ActiveCfg = Debug|x64
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Debug|x64.Build.0 = Debug|x64
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Debug|x86.Build.0 = Debug|Win32
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Release|x64.ActiveCfg = Release|x64
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Release|x64.Build.0 = Release|x64
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Release|x86.ActiveCfg = Release|Win32
+		{B179DCB3-FCC2-43E4-8A90-C64BA7898C1D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
