@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorRules", "OperatorRules\OperatorRules.vcxproj", "{5A919DDD-375F-4994-B3C5-9D1E7CE369F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArithmeticOper", "ArithmeticOper\ArithmeticOper.vcxproj", "{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5A919DDD-375F-4994-B3C5-9D1E7CE369F9}.Release|x64.Build.0 = Release|x64
 		{5A919DDD-375F-4994-B3C5-9D1E7CE369F9}.Release|x86.ActiveCfg = Release|Win32
 		{5A919DDD-375F-4994-B3C5-9D1E7CE369F9}.Release|x86.Build.0 = Release|Win32
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Debug|x64.ActiveCfg = Debug|x64
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Debug|x64.Build.0 = Debug|x64
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Debug|x86.Build.0 = Debug|Win32
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Release|x64.ActiveCfg = Release|x64
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Release|x64.Build.0 = Release|x64
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Release|x86.ActiveCfg = Release|Win32
+		{EFA2E535-9ED7-43F9-9581-3AD7552DF94E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
