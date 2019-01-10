@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IncDecOper", "IncDecOper\In
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SizeofCommaConditional", "SizeofCommaConditional\SizeofCommaConditional.vcxproj", "{AA51EBD2-21EA-4CEB-8807-BF48F6BCF67B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RelationalOperator", "RelationalOperator\RelationalOperator.vcxproj", "{7C5B5815-039E-4658-9426-F2AB21FDFDDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{AA51EBD2-21EA-4CEB-8807-BF48F6BCF67B}.Release|x64.Build.0 = Release|x64
 		{AA51EBD2-21EA-4CEB-8807-BF48F6BCF67B}.Release|x86.ActiveCfg = Release|Win32
 		{AA51EBD2-21EA-4CEB-8807-BF48F6BCF67B}.Release|x86.Build.0 = Release|Win32
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Debug|x64.ActiveCfg = Debug|x64
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Debug|x64.Build.0 = Debug|x64
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Debug|x86.Build.0 = Debug|Win32
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x64.ActiveCfg = Release|x64
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x64.Build.0 = Release|x64
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x86.ActiveCfg = Release|Win32
+		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
