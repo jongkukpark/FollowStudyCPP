@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SizeofCommaConditional", "S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RelationalOperator", "RelationalOperator\RelationalOperator.vcxproj", "{7C5B5815-039E-4658-9426-F2AB21FDFDDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogicalOperator", "LogicalOperator\LogicalOperator.vcxproj", "{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x64.Build.0 = Release|x64
 		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x86.ActiveCfg = Release|Win32
 		{7C5B5815-039E-4658-9426-F2AB21FDFDDE}.Release|x86.Build.0 = Release|Win32
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Debug|x64.ActiveCfg = Debug|x64
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Debug|x64.Build.0 = Debug|x64
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Debug|x86.Build.0 = Debug|Win32
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Release|x64.ActiveCfg = Release|x64
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Release|x64.Build.0 = Release|x64
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Release|x86.ActiveCfg = Release|Win32
+		{D3295D26-39BD-4C61-B769-7DD9D4BFF41A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
