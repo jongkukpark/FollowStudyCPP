@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LocalVariableScopeDuration"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GlobalStaticVariableInterExterLinkage", "GlobalStaticVariableInterExterLinkage\GlobalStaticVariableInterExterLinkage.vcxproj", "{6B8D4713-BD30-41D2-9BE9-F5DE865E568B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsingAndAmbiguity", "UsingAndAmbiguity\UsingAndAmbiguity.vcxproj", "{9605EE07-AD75-4AED-B29F-F9FB312A1F05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{6B8D4713-BD30-41D2-9BE9-F5DE865E568B}.Release|x64.Build.0 = Release|x64
 		{6B8D4713-BD30-41D2-9BE9-F5DE865E568B}.Release|x86.ActiveCfg = Release|Win32
 		{6B8D4713-BD30-41D2-9BE9-F5DE865E568B}.Release|x86.Build.0 = Release|Win32
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Debug|x64.ActiveCfg = Debug|x64
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Debug|x64.Build.0 = Debug|x64
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Debug|x86.ActiveCfg = Debug|Win32
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Debug|x86.Build.0 = Debug|Win32
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Release|x64.ActiveCfg = Release|x64
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Release|x64.Build.0 = Release|x64
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Release|x86.ActiveCfg = Release|Win32
+		{9605EE07-AD75-4AED-B29F-F9FB312A1F05}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
