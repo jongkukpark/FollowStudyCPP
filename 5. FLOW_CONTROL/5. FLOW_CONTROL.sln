@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlFlowIntro", "ControlFlowIntro\ControlFlowIntro.vcxproj", "{B5B722CA-650F-43DD-ABFC-92C14A87F8AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If", "If\If.vcxproj", "{515E12CE-1FDD-48B7-9609-2569BF02A611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B5B722CA-650F-43DD-ABFC-92C14A87F8AC}.Release|x64.Build.0 = Release|x64
 		{B5B722CA-650F-43DD-ABFC-92C14A87F8AC}.Release|x86.ActiveCfg = Release|Win32
 		{B5B722CA-650F-43DD-ABFC-92C14A87F8AC}.Release|x86.Build.0 = Release|Win32
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Debug|x64.ActiveCfg = Debug|x64
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Debug|x64.Build.0 = Debug|x64
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Debug|x86.ActiveCfg = Debug|Win32
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Debug|x86.Build.0 = Debug|Win32
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Release|x64.ActiveCfg = Release|x64
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Release|x64.Build.0 = Release|x64
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Release|x86.ActiveCfg = Release|Win32
+		{515E12CE-1FDD-48B7-9609-2569BF02A611}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
