@@ -9,13 +9,11 @@ int main()
 
 	for (int i = 0; i < length; i++)
 	{
-		int min = numeric_limits<int>::max();
-		int min_index = 0;
+		int min_index = i;
 		for (int j = i; j < length; j++)
 		{
-			if (min > selection[j])
+			if (selection[min_index] > selection[j])
 			{
-				min = selection[j];
 				min_index = j;
 			}
 		}
